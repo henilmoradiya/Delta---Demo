@@ -1,2 +1,2 @@
 # Delta---Demo
-this demo repository and currently i am learning Git-Github
+this is demo repository and currently i am learning Git-Github
